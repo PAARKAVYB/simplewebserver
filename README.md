@@ -47,6 +47,10 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-
+### Server Side Output
+![Server Side Outout](./images/serveroutput.png)
+### Client Side Output
+![Client Side Output](./images/clientoutput.png)
 
 ## RESULT:
+Thus the webserver is developed to display about top five programming languages.
