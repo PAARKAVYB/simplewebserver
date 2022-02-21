@@ -6,19 +6,19 @@ To develop a simple webserver to display about top five programming languages.
 ## DESIGN STEPS:
 ### Step 1: 
 
-HTML content creation
+HTML content creation.
 ### Step 2:
 
-Design of webserver workflow
+Design of webserver workflow.
 ### Step 3:
 
-Implementation using Python code
+Implementation using Python code.
 ### Step 4:
 
 Serving the HTML pages.
 ### Step 5:
 
-Testing the webserver
+Testing the webserver.
 
 ## PROGRAM:
 ```
@@ -73,11 +73,14 @@ httpd.serve_forever()
 
 ```
 ## OUTPUT:
-### Server Side Output
-![Client Side Output](WEBSERVER.PNG)
+### Server Side Output:
+![WEBSERVER](https://user-images.githubusercontent.com/93509383/154968767-9263a5b5-adf6-41f8-a917-040f420438f5.png)
+
+
 ### Client Side Output
-![Server Side Output](C1.png)
-![Server Side Output](c2.png)
+![C1](https://user-images.githubusercontent.com/93509383/154968800-3b3da3f7-4104-4d7a-860c-37328af24a26.png)
+![c2](https://user-images.githubusercontent.com/93509383/154968848-072d261b-5301-48ac-b0cb-b98ce93fa1eb.png)
+
 
 ## RESULT:
 Thus the webserver is developed to display about top five programming languages.
